@@ -79,7 +79,7 @@ The dashboard comprises six pages-->
 
 ### Supply Chain Page View: Aims to optimize inventory management and enhance supplier relationships for cost savings. Includes details about Forecast Accuracy, Net error, and more.
 
-![supply chain](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/2ac6c4f5-2b34-45f4-94fe-a0cea0b3627c)
+![Supply Chain View Page](https://github.com/user-attachments/assets/4bc15e3d-8af8-4f61-b2c0-7a7d6af7b8da)
 
 
 ### Executive Page View: Provides an overview of the organization's performance for top management. Includes Net Sales, Gross Margin%, Net Profit%, Revenue Contribution by channel, Top 5 Customer and Product, Sub Region performance, and more.
