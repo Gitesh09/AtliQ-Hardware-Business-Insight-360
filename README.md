@@ -63,7 +63,7 @@ The dashboard comprises six pages-->
 
 ### Finance Page: Focuses on improving financial planning, budgeting processes, and cost control. Includes Profit and Loss statements, Top and Bottom Products and Customers by Net Sales, and more.
 
-![finance page](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/9a5fed55-40fa-471a-a9ef-762870c0bc7a)
+![Finance View page](https://github.com/user-attachments/assets/caef4b6f-4652-46b3-88ed-b2aa2fc5027f)
 
 
 ### Sales Page: Aims to increase sales revenue and market share. Features Customer performance by Net Sales, Gross Margin, Gross Margin %, and more.
