@@ -68,7 +68,8 @@ The dashboard comprises six pages-->
 
 ### Sales Page: Aims to increase sales revenue and market share. Features Customer performance by Net Sales, Gross Margin, Gross Margin %, and more.
 
-![sales page](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/4a1ca097-8c59-4c4d-b5bf-7e9fa5ab3aef)
+![Sales View Page](https://github.com/user-attachments/assets/8f5a4adc-33b3-4610-87b1-834fc9cd11e7)
+
 
 
 ### Marketing Page: Aims to increase brand visibility and customer engagement. Provides Segment Performance by Gross Margin% and Net Profit%, and more.
