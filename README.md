@@ -84,12 +84,12 @@ The dashboard comprises six pages-->
 
 ### Executive Page View: Provides an overview of the organization's performance for top management. Includes Net Sales, Gross Margin%, Net Profit%, Revenue Contribution by channel, Top 5 Customer and Product, Sub Region performance, and more.
 
-![executive page](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/cff56379-243d-4e2e-96e5-e21e1624de3f)
+![Executive View page](https://github.com/user-attachments/assets/034b5810-0527-4ef3-93c3-0a27e2a69646)
 
 
 ## Skills Learned:
 
-During the Codebasics Bootcamp course and this project, I learned:
+During this project, I learned:
 Power BI fundamentals,
 Calculated columns and DAX measures,
 Data Modeling, Data Cleaning, Bookmarks, Conditional formatting,
